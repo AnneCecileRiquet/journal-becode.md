@@ -44,5 +44,26 @@ Après la pause, présentation de « la veille » qui devrait nous permettre d
 
 ***
 
+## Lundi 17 septembre
+
+Le courant est revenu, nous pouvons terminer de créer le fichier markdown en commun. Je crois que je commence à comprendre git, enfin j'éspère.
+
+**La première veille**: Redouane a nous fait une pésentation de Visual Studio Code, simple, clair, précis.
+
+Ensuite, nous choses sérieuses commence "L'Amélioration progressive", une test sur un paysan chinois à modifier en HTML et CSS.
+Toutes les étapes sont décrites point par point pour être sûr d'avancer sans courir et passer les étapes.
+
+
+***
+
+## Mardi 18 septembre
+
+Nous continuons chacun notre projet du petit paysan chinois, l'html est terminé, début du css, ça roule.
+
+**Deuxième veille** Maxime nous parle de *bolt* un petit robot en forme de boule que propose le constructeur américain Sphero,  qui a pour but de susciter chez les plus jeunes ou les adultes débutants un intérêt pour la programmation. C'est ludique, coloré et apparemment assez simple d'utilisation. Le seul *hic* c'est son prix...
+
+Et nous retrouvons encore notre chinois, c'est encore loin d'être fini.
+
+
 
 
