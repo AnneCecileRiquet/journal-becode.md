@@ -50,7 +50,7 @@ Après la pause, présentation de « la veille » qui devrait nous permettre d
 
 Le courant est revenu, nous pouvons terminer de créer le fichier markdown en commun. Je crois que je commence à comprendre git, enfin j'éspère.
 
-**La première veille**: Redouane a nous fait une pésentation de Visual Studio Code, un éditeur de code open-source gratuit supportant une dizaine de langages
+**La première veille**: Redouane a nous fait une pésentation de Visual Studio Code, [visual studio](https://code.visualstudio.com) un éditeur de code open-source gratuit supportant une dizaine de langages
 
 Ensuite, les choses sérieuses reprennent "L'Amélioration progressive", une texte sur un paysan chinois à modifier en HTML et CSS.
 Toutes les étapes sont décrites point par point pour être sûr d'avancer sans courir et de ne pas passer les étapes.
@@ -62,9 +62,24 @@ Toutes les étapes sont décrites point par point pour être sûr d'avancer sans
 
 Nous continuons chacun notre projet du petit paysan chinois, l'html est terminé, début du css, ça roule.
 
-**Deuxième veille** Maxime nous parle de *bolt* un petit robot en forme de boule que propose le constructeur américain Sphero,  qui a pour but de susciter chez les plus jeunes ou les adultes débutants un intérêt pour la programmation. C'est ludique, coloré et apparemment assez simple d'utilisation. Le seul *hic* c'est son prix...
+**Deuxième veille** Maxime nous parle de *bolt* [Bolt](https://www.sciencesetavenir.fr/high-tech/robot/bolt-le-petit-robot-de-sphero-qui-donne-envie-d-apprendre-a-programmer_12748) un petit robot en forme de boule que propose le constructeur américain Sphero,  qui a pour but de susciter chez les plus jeunes ou les adultes débutants un intérêt pour la programmation. C'est ludique, coloré et apparemment assez simple d'utilisation. Le seul *hic* c'est son prix...
 
 Et nous retrouvons encore notre chinois, c'est encore loin d'être fini.
+
+
+***
+
+## Mercredi 19 septembre
+
+Suite et par encore fin de l'amélioratin progressive. Je ne sais pas qui a eu l'idée de cette mise en page mais, à vouloir intégrer toute les balises et tout les styles, le résultat est plus qu'étrange. vivement la suite sur turlutu.com.
+
+**La troisième veille** Axel nous a présenté [SVG] (https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) un langage simple qui permet de créer des dessins vectoriels uniquement avec du texte, basé sur du XML et peut re combiné avec du CSS.
+
+14 Heures, le live a envahi la moitié de la salle et quelques apprenants volontaires vont répondre aux questions des viewvers. 
+
+Ca y est, j'ai enfin fin mon paysan chinois. En avant pour le *'Turlututu'*. 
+
+Là on nous donne une page web à reproduire sans aucune indication de comment faire. A nous de nous y retrouver avec toutes les commandes vue dans l'exercice précédent.
 
 
 
