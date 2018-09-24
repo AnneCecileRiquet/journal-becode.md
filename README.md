@@ -44,6 +44,7 @@ Tient, ça commence à aller mieux, j’arrive déjà à créer mon fichier. Bon
 Après la pause, présentation de « la veille » qui devrait nous permettre de nous tenir au courant des nouveautés et nous exprimer en public. Et voilà maintenant, il n’y a plus de courant suite à une inondation. J’en profite pour un petit cours particulier avec Redouane (merci), et on nous libère pour un petit week-end avec des lien des vidéos à voir ou revoir ou des sites pour digérer ce qui n’aurait pas été compris. Je vous laisse, à lundi.
 
 
+
 ***
 
 ## Lundi 17 septembre
@@ -82,5 +83,26 @@ Ca y est, j'ai enfin fin mon paysan chinois. En avant pour le *'Turlututu'*.
 Là on nous donne une page web à reproduire sans aucune indication de comment faire. A nous de nous y retrouver avec toutes les commandes vue dans l'exercice précédent.
 
 
+***
+
+## Jeudi 20 septembre
+
+Retour à la pataugeoire, par ou je commence?  J'ai l'impression que la moindre commande est un obstacle. Rien ne va là où je veux. J'avance mais à la vitesse d'une limace dans une côte mais j'avance. C'est le principal.
+
+Petit récap de Ludo sur le positionnement en css avec un peu de live coding pour remettre les idées en place et chacun repart sur sa page.
+
+**La quatrième veille**  Justine va nous faciliter la vie avec son [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Le principe de Flexbox est simple : vous définissez un conteneur, et à l'intérieur vous placez plusieurs éléments. Imaginez un carton dans lequel vous rangez plusieurs objets : c'est le principe !, vous déplacez les box des gauches à droite, de haut en bas... idéal pour les mises en page. Il n'y a plus qu'à assimiler tout ça pour l'appliquer.
+
+
+***
+
+## Vendredi 21 septembre
+
+Après un petit récap sur l'utilisatin des *Parents* et des *Enfants* et comment les utiliser dans flexbox, me voici de retour dans mon *turlutut* pour teminer et améliorer sa mise en page.
+
+**La cinqième veille**  Caroline nous a brièvement présenté [Unity](https://unity3d.com/fr). Unity est un moteur de jeu multi-plateforme développé par Unity Technologies.
+
+Mon turlutu se permine et non seulement je comprend ce que je fais mais j'arrive même *un peu* à aider mon voisin.
+Petit challenge Kahoot pour bien la journée.
 
 
