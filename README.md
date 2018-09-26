@@ -106,3 +106,33 @@ Mon turlutu se permine et non seulement je comprend ce que je fais mais j'arrive
 Petit challenge Kahoot pour bien la journée.
 
 
+***
+
+## Lundi 24 septembre
+ 
+Voilà mon *turlututu* est fini et j'en suis assez fière. La phase suivante sera le *responsive web design* mais avant, la veille d'Adrien sur le RGPD (Règlement général sur la protection des données).
+
+J'ai réussi les exercices du responsive sans aide et assez facilement, yesss. 
+
+
+***
+
+## Mardi 25 septembre
+
+
+Bon , la pratique sur le responsive avec *zozor* c'est beaucoup moins évident. adapter les écrans pour sans que tout ne joue des castagnettes, c'est pas du gâteau. Mais j'y suis arrivée...
+
+
+**la veille** de David nous a renseigné sur les racourcis clavier et sur les gestionnaires de favoris.
+
+Ensuite, défi suivant: convertir le turlututu en SCSS avec le SASS. C'est quoi encore pour un langage, elle est belle ma page... pourquoi la modifier?
+
+
+### Mercredi 26 septembre
+
+Suite du Turlutu en sass, l'indentation: ok, placeholder: ok, les mixins ne sont pas encore au point mais le travail est propre.
+
+La veille nous est présentée par Maxime et il nous a parlé de *"sublim Text"* et les plugins à rajouter pour mieux l'utiliser. 
+
+Et maintenant le défi suivant: Les animations css. Je sans qu'on va s'amuser. 
+
