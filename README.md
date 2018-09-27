@@ -134,5 +134,27 @@ Suite du Turlutu en sass, l'indentation: ok, placeholder: ok, les mixins ne sont
 
 La veille nous est présentée par Maxime et il nous a parlé de *"sublim Text"* et les plugins à rajouter pour mieux l'utiliser. 
 
-Et maintenant le défi suivant: Les animations css. Je sans qu'on va s'amuser. 
+Et maintenant le défi suivant: Les animations css. Je sent qu'on va s'amuser. 
+
+
+***
+
+
+### Jeudi 27 septembre
+
+**Le Drill**
+
+Créer des animations en css : Les animations servent à faire une transition entre deux états d'un élément. 
+Donc nous avons créer des animations de contraste, d'agrandissementet de défilement vers la droite.
+
+**Le menu animé**
+
+Nous avons fait une barre de navigation avec des icones qui cachent un menu déroulant avec contraste de couleur pour bien appliqué les notions vuent dans le *drill*.
+
+A la veille, Baptiste nous a parlé de Ubuntu et de ses dérivés...
+
+En route pour **Star Wars** maintenant.
+
+
+
 
